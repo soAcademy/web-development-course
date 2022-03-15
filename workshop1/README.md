@@ -1,1 +1,8 @@
-# Workshop1: Dashboard Project
+# Workshop 1: Dashboard Project
+
+## สถานการณ์สมมติ
+ณ ห้องประชุมบริษัทประกันแห่งนึง น้องชึ่งเป็น Software Engineer กับพี่อีกคนที่เป็น Project Manager กำลังรับบรีพจากผู้บริหาร โดยผู้บริหารอยากได้เว็บแอพที่แสดงผลข้อมูลเป็น Dashboard ทำ Data Visualization ข้อมูลต่างๆ ที่มีประโยชน์ต่อการออกกรมธรรม์ ให้ดูง่ายๆ เป็นกราฟ ตาราง แผนที่ แบบ Interactive โดยเบื้องต้นอยากให้ลองเอาชุดข้อมูล 1-2 นี้มาทำดูก่อน แล้วค่อยขยายไปใช้ข้อมูลจริงจาก Database
+
+**ชุดข้อมูล**
+- [ข้อมูลผู้เสียชีวิตจากอุบัติเหตุทางถนน](https://data.go.th/dataset/rtddi)
+- [รายงาน COVID-19 ประจำวัน](https://data.go.th/dataset/covid-19-daily)
