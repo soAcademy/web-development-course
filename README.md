@@ -38,4 +38,4 @@ SO Academy จะใช้การเรียนแบบ Self Learning แล
 - [10+ Must-have VSCode Extensions for React Developers](https://dev.to/elijahtrillionz/10-must-have-vscode-extensions-for-react-developers-nfk)
 - [Google Calendar for Slack](https://slack.com/help/articles/206329808-Google-Calendar-for-Slack)
 
-ถ้าลงโปรแกรมกันเรียบร้อยแล้ว เราเริ่มมา [Workshop 1](workshop1/README.md) กันได้เลยครับ
+ถ้าลงโปรแกรมกันเรียบร้อยแล้ว เรามาเริ่มต้นเรียนกันได้เลยครับ
