@@ -4,9 +4,9 @@
 
 Step การเรียนจะเป็นแบบนี้ครับ HTML -> CSS -> JavaScript
 
-ให้น้องเรียนจากคอร์สนี้ให้เรียบร้อยก่อนนะครับ ระหว่างนี้ติดปัญหาตรงไหนให้ถามพี่ได้เลยครับ หรือลองถามเพื่อนๆ ในกลุ่มก็ได้ครับ เรียนไปพร้อมๆ กับเพื่อน ช่วยกันเรียนครับ สนุกๆ EP นี้พี่ให้เวลาน้อง 5 วันในการเรียนครับ เดี้ยวเรียนเสร็จแล้วเรามาทำ Workshop ถัดไปกันได้เลยครับ
+ให้น้องเรียนจากคอร์สนี้ให้เรียบร้อยก่อนนะครับ ระหว่างนี้ติดปัญหาตรงไหนให้ถามพี่ได้เลยครับ หรือลองถามเพื่อนๆ ในกลุ่มก็ได้ครับ เรียนไปพร้อมๆ กับเพื่อน ช่วยกันเรียนครับ สนุกๆ
 
-
+ถ้าเรียนบทใดบทหนึ่งจาก W3School เสร็จแล้ว ให้ทำ Exercises กับ Quiz ด้วยนะครับ จะได้ทบทวนความเข้าใจ
 
 ## W3School
 
@@ -31,6 +31,18 @@ JavaScript สำหรับผู้เริ่มต้น
 {% embed url="https://www.youtube.com/watch?v=ReGM0zubxfI" %}
 พื้นฐาน JavaScript ES6
 {% endembed %}
+
+## Exercises
+
+* [HTML](https://www.w3schools.com/html/exercise.asp) 88 ข้อ
+* [CSS](https://www.w3schools.com/css/exercise.asp) 138 ข้อ
+* [JavaScript ](https://www.w3schools.com/js/exercise\_js.asp)88 ข้อ
+
+## **Quiz**
+
+* [HTML](https://www.w3schools.com/html/html\_quiz.asp) 40 ข้อ
+* [CSS](https://www.w3schools.com/css/css\_quiz.asp) 25 ข้อ
+* [JavaScript](https://www.w3schools.com/js/js\_quiz.asp) 25 ข้อ
 
 ## Additonal Resources
 
