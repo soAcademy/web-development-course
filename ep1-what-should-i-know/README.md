@@ -6,7 +6,7 @@
 
 ## Knowledge Graph
 
-![](../.gitbook/assets/knowledge-graph.svg)
+{% embed url="https://codepen.io/pen?template=RwxPXEj" %}
 
 ## WebApp
 
