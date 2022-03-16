@@ -4,11 +4,21 @@
 
 {% embed url="https://govspending.data.go.th/budget?search=" %}
 
-## Knowledge Graph
+### โครงสร้างความรู้ที่ใช้ทำ WebApp
 
 {% embed url="https://codepen.io/panasun/pen/RwxPXEj" %}
 
-## WebApp
+รูปนี้คือโครงสร้างความรู้ที่ต้องมีสำหรับทำ WebApp ครับ ให้น้องลองกดเข้าไปดูได้ครับ จะมีรายละเอียดเยอะอยู่ แต่อย่าเพิ่งตกใจไปครับ เดี๋ยวเราจะค่อยๆ เรียนรู้ไปด้วยกันทีละขั้นครับ
+
+## Frontend / Backend คืออะไร
+
+เมื่อเราต้องการทำ WebApp สักตัว ส่วนมากเราจะแบ่งโครงสร้างออกเป็น Frontend (หน้าบ้าน) และ Backend (หลังบ้าน) แยกกันครับ เพื่อให้ Developer แต่ละคนทำงานง่าย โดย Frontend คือหน้าตาเว็บไซต์ที่เปิดจาก Browser (Chrome) เป็นส่วนที่ต้องเน้นความสวยงาม เพื่อให้ User ใช้งาน ส่วน Backend คือส่วนที่ต้องยุ่งกับ Database การประมวลผลข้อมูล User ทั่วไปจะไม่เห็น Backend ครับ Frontend กับ Backend จะคุยกันผ่าน API&#x20;
+
+เพื่อให้เห็นภาพมากขึ้น ให้น้องลองกดคลิ๊กขวา -> View page source สิ่งที่น้องจะเห็นคือโค้ดฝั่ง Frontend ที่ประกอบไปด้วย HTML, CSS และ JavaScript
+
+ส่วน Backend ปกติน้องจะไม่เห็นโค้ดครับ เพราะเป็นความลับเก็บไว้ที่ Server หลังบ้าน ที่น้องจะเห็นคือข้อมูลจาก API แทน นี่คือตัวอย่าง API ครับ ลองกดเข้าไปดูได้ "[รายงานสถานการณ์ COVID-19 ประจำวัน แยกตามรายจังหวัด](https://covid19.ddc.moph.go.th/api/Cases/today-cases-by-provinces)" โดยปกติ API จะส่งข้อมูลในรูปแบบ JSON
+
+{% embed url="https://covid19.ddc.moph.go.th" %}
 
 ### Frontend
 
