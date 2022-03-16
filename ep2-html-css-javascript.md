@@ -6,15 +6,7 @@ Step การเรียนจะเป็นแบบนี้ครับ HT
 
 ให้น้องเรียนจากคอร์สนี้ให้เรียบร้อยก่อนนะครับ ระหว่างนี้ติดปัญหาตรงไหนให้ถามพี่ได้เลยครับ หรือลองถามเพื่อนๆ ในกลุ่มก็ได้ครับ เรียนไปพร้อมๆ กับเพื่อน ช่วยกันเรียนครับ สนุกๆ EP นี้พี่ให้เวลาน้อง 5 วันในการเรียนครับ เดี้ยวเรียนเสร็จแล้วเรามาทำ Workshop ถัดไปกันได้เลยครับ
 
-## KongRuksiam Official
 
-{% embed url="https://www.youtube.com/watch?v=0hfeNPM7piw" %}
-
-{% embed url="https://www.youtube.com/watch?v=HcInSUzhaUc" %}
-
-{% embed url="https://www.youtube.com/watch?v=AbjY-ajKgSI" %}
-
-{% embed url="https://www.youtube.com/watch?v=ReGM0zubxfI" %}
 
 ## W3School
 
@@ -22,12 +14,28 @@ Step การเรียนจะเป็นแบบนี้ครับ HT
 * [W3School: CSS](https://www.w3schools.com/css/default.asp)
 * [W3School: JavaScript](https://www.w3schools.com/js/default.asp)
 
-## Codecademy
+## KongRuksiam Official
+
+{% embed url="https://www.youtube.com/watch?v=0hfeNPM7piw" %}
+ปูพื้นฐานการสร้างเว็บด้วย HTML
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=HcInSUzhaUc" %}
+HTML & CSS สำหรับผู้เริ่มต้น
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=AbjY-ajKgSI" %}
+JavaScript สำหรับผู้เริ่มต้น
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=ReGM0zubxfI" %}
+พื้นฐาน JavaScript ES6
+{% endembed %}
+
+## Additonal Resources
 
 * [Codecademy: HTML](https://www.codecademy.com/learn/learn-html)
 * [Codecademy: CSS](https://www.codecademy.com/learn/learn-css)
 * [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-
-## Udemy
-
 * [Udemy: HTML, CSS, JavaScript for Beginner](https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/)
+
