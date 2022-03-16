@@ -1,10 +1,10 @@
 # Table of contents
 
 * [EP0. ยินดีต้อนรับเด็กใหม่](README.md)
-  * [เช็คความพร้อมก่อนเข้าเรียน](ep0./undefined.md)
-  * [แนะนำทีมงาน](ep0./undefined-1.md)
-  * [วิธีเรียน](ep0./undefined-2.md)
-  * [ลงโปรแกรม](ep0./undefined-3.md)
+  * [เช็คความพร้อมก่อนเข้าเรียน](ep0-welcome-new-joiner/ep0-requirement.md)
+  * [แนะนำทีมงาน](ep0-welcome-new-joiner/ep0-teams.md)
+  * [วิธีเรียน](ep0-welcome-new-joiner/ep0-how-to-learn.md)
+  * [ลงโปรแกรม](ep0-welcome-new-joiner/ep0-installation.md)
 * [Setup Workspace](readme/README.md)
   * [Page 1](readme/page-1.md)
 * [curriculum](curriculum/README.md)
