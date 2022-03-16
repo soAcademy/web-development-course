@@ -6,6 +6,8 @@
 
 ## Knowledge Graph
 
+![](../.gitbook/assets/knowledge-graph.svg)
+
 ## WebApp
 
 ### Frontend
