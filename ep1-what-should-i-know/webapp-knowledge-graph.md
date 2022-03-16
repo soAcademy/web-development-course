@@ -34,11 +34,11 @@
   * [React](https://reactjs.org)
     * [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
     * LifeCycle
-    * ReactHook
+    * [ReactHook](https://reactjs.org/docs/hooks-intro.html)
     * Props
     * Router
     * Import / Export
-    * Redux
+    * [Redux](https://redux.js.org)
   * [Vue](https://vuejs.org)
   * [Angular](https://angular.io)
 * Debugging
