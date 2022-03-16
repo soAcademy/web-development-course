@@ -6,7 +6,7 @@
 
 ## Knowledge Graph
 
-{% embed url="https://codepen.io/pen?template=RwxPXEj" %}
+{% embed url="https://codepen.io/panasun/pen/RwxPXEj" %}
 
 ## WebApp
 
