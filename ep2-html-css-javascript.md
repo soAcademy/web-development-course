@@ -19,3 +19,9 @@
 {% embed url="https://www.youtube.com/watch?v=AbjY-ajKgSI" %}
 
 {% embed url="https://www.youtube.com/watch?v=ReGM0zubxfI" %}
+
+## Codecademy
+
+* [Codecademy: HTML](https://www.codecademy.com/learn/learn-html)
+* [Codecademy: CSS](https://www.codecademy.com/learn/learn-css)
+* [Codecademy: Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
