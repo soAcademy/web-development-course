@@ -104,7 +104,7 @@
   * Github Flow
 * Versioning
   * [SemVer](https://semver.org)
-*
+* Brand
   * [Github](https://github.com)
   * [GitLab](https://gitlab.com)
   * [Bitbucket](https://bitbucket.org)
