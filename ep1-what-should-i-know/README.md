@@ -4,7 +4,7 @@
 
 {% embed url="https://govspending.data.go.th/budget?search=" %}
 
-### โครงสร้างความรู้ที่ใช้ทำ WebApp
+## โครงสร้างความรู้ที่ใช้ทำ WebApp
 
 {% embed url="https://codepen.io/panasun/pen/RwxPXEj" %}
 
@@ -20,159 +20,46 @@
 
 {% embed url="https://covid19.ddc.moph.go.th" %}
 
-### Frontend
+## Git คืออะไร
 
-* HTML
-  * DOM Element
-* CSS
-  * Basic
-  * Responsive
-  * Framework
-    * [TailwindCSS](https://tailwindcss.com)
-    * [MaterialUI](https://tailwindcss.com)
-    * [AntDesign](https://ant.design)
-    * [Bootstrap](https://getbootstrap.com)
-* JavaScript
-  * Basic
-    * Variable
-    * Array
-    * Object
-    * Loop
-    * Function
-    * LocalStorage
-  * [ES6](https://www.youtube.com/watch?v=ReGM0zubxfI)
-    * Arrow Function
-    * Map
-    * Reduce
-    * Filter
-  * [TypeScript](https://www.typescriptlang.org)
-  * [Library](https://www.npmjs.com)
-    * Package Manager
-      * npm
-      * yarn
-* Web Framework
-  * [React](https://reactjs.org)
-    * [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
-    * LifeCycle
-    * ReactHook
-    * Props
-    * Router
-    * Import / Export
-    * Redux
-  * [Vue](https://vuejs.org)
-  * [Angular](https://angular.io)
-* Debugging
-  * Inspect
-    * Console
-    * Network
-    * Application
-      * Local Storage
-      * Session Storage
-      * Cookies
-    * Elements
-* UX/UI
-  * Design System
-    * [Material Design](https://material.io/design)
-    * [Ant Design](https://ant.design)
-  * Tools
-    * [Figma](https://www.figma.com)
-    * [AdobeXD](https://www.adobe.com/th\_th/products/xd.html)
-    * [Sketch](https://www.sketch.com)
-    * [Invision](https://www.invisionapp.com)
+ถ้าน้องเคยเจอปัญหาเวลาเซฟหลายเวอร์ชั่น เช่น `Project.doc`, `Project_ใหม่.doc` , `Project_ใหม่กว่า.doc` , `Project_ใหม่ล่าสุด.doc` จนบางทีก็งงไปเลยว่าจะใช้ไฟล์ไหนดี ถ้าดีขึ้นมาหน่อยอาจจะตั้งชื่อไฟล์ตามด้วยวันที่ เช่น `Project_20220116.doc` แต่ถ้าเกิดเราต้องแก้ไขไฟล์นี้ หลายๆ คน ก็ต้องส่งไฟล์กันไปมา หลายรอบ คนนี้แก้ไปแล้ว ไฟล์ตีกัน ปัญหานี้เราเรียกว่า Version Control ครับ
 
-### Backend
+เวลาเราเขียนโปรแกรมที่มีไฟล์หลายๆ บรรทัด แล้วต้องเขียนร่วมกันหลายคน ถ้าเกิดมีคนแก้ไขไฟล์ไปแล้ว คนอื่นอยากเอามาใช้ หรือเขียนโค้ดผิด อยากย้อนโค้ดกลับไป 2 วันก่อน ถ้าเราใช้วิธีเซฟไฟล์แล้วส่งกันไปมาปกติมีปัญหาแน่ๆ ครับ มันเลยเกิดสิ่งที่เรียกว่า `Git` ขึ้นมาเพื่อทำให้เราสามารถเซฟไฟล์ แก้ไขร่วมกัน แชร์ไฟล์หลายๆ คนได้สะดวก โดย git ก็มีหลายยี่ห้อครับ Github, GitLab, Bitbucket ซึ่งที่เราจะใช้กันคือ Github ครับ
 
-* Language
-  * [NodeJS](https://nodejs.org)
-    * JavaScript
-    * TypeScript
-    * Framework
-      * [Express](https://expressjs.com)
-  * Java
-    * Framework
-      * [SpringBot](https://spring.io)
-      * [Quarkus](https://quarkus.io)
-  * Go
-    * Framework
-      * [Gin](https://github.com/gin-gonic/gin)
-* API
-  * REST
-  * [GraphQL](https://graphql.org)
-  * Database
-    * Postgres
-    * MySQL
-    * BigQuery
-    * Redis
-* Authorization / Authentication
-  * JWT Token
-  * OAuth
-* Testing
-  * Unit Test
-  * Integration Test
-  * Load Test
+## DevOps คืออะไร
 
-### Git
+เมื่อน้องเขียนโค้ดแล้ว อยากอัพโหลดขึ้นเว็บไซต์เพื่อทดสอบ ถ้าโปรแกรมน้องไม่มีการตั้งค่าให้อัพโหลดอัตโนมัติขึ้น Server น้องต้องมาทำเองทุกครั้งที่เขียนโค้ด ทำให้เสียเวลาครับ DevOps (Development Operation) จะช่วยทำให้โค้ดที่น้องเขียนขึ้น Server แบบอัตโนมัติ และถ้าเราทำงานเป็นทีมเขียนโค้ดกันหลายคนก็จะช่วยให้แต่ละคนทำงานร่วมกันง่ายขึ้น โดย DevOps ที่เราควรรู้มีดังนี้ครับ
 
-* Basic Command
-  * Push
-  * Pull
-  * Merge
-  * Commit
-  * Resolve Conflict
-* Branching Model
-  * Git Flow
-  * Github Flow
-* Versioning
-  * [SemVer](https://semver.org)
-*
-  * [Github](https://github.com)
-  * [GitLab](https://gitlab.com)
-  * [Bitbucket](https://bitbucket.org)
+* [**Docker**](https://blog.skooldio.com/what-is-docker/) คือเทคโนโลยีที่ทำให้โค้ดที่เราเขียนบนเครื่องของเรา สามารถรันบนเครื่องต่างๆ ได้เหมือนกัน 100% น้องอาจเคยเจอโปรแกรมที่รันบนเครื่องนึงได้ แล้วพอรันอีกเครื่องนึงเจ๊ง Docker จะมาแก้ปัญหานี้
+* [**CI/CD**](https://codium.co/blogs/33-CICD) คือกระบวนการที่ทำให้ทุกครั้งที่เราแก้ไขโค้ด จะตรวจสอบความถูกต้องของโค้ด และอัพโหลดโค้ดเราไปยัง Server อัตโนมัติ ทำให้เราเขียนโค้ดร่วมกับคนอื่นๆ ในทีมได้อย่างมั่นใจ
 
-### Devops
+## Agile คืออะไร
 
-* Docker
-  * Docker Compose
-* CI/CD
-  * Github Action
-  * [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
-  * [Jenkins](https://www.jenkins.io)
-  * [SonarCloud](https://sonarcloud.io)
-* Cloud
-  * Google Cloud
-  * AWS
-  * Azure
-  * Huawei Cloud
-  * Alibaba Cloud
-* Kubernetes
-  * Ingress
-  * Istio
-* Monitoring
-  * Grafana
-  * Prometheus
+Agile คือวิธีการทำงานรูปแบบนึง ที่มีลักษณะยืดหยุ่นได้ตามสถานการณ์ มักนำมาใช้กับการทำซอฟแวร์หรือ Startup ที่สามารถปรับเพิ่มฟีเจอร์ได้เรื่อยๆ โดยคำตรงความของ Agile คือ Waterfall คือลักษณะการทำงานที่วางแบบแผนชัดเจน ปรับเพิ่มได้ยาก
 
-### Tools
+คำที่เราจะได้ยินเวลาทำงานในสายไอทีอีกคำคือ Sprint ซึ่งเวลาทีม dev ทำงานจะวางแผนกันเป็น Sprint โดย 1 Sprint ส่วนใหญ่จะ 2 สัปดาห์ โดยในแต่ละ Sprint จะมี
 
-* API
-  * [Postman](https://www.postman.com)
-* Database
-  * [DBeaver](https://dbeaver.io)
-* Text Editor
-  * [VSCode](https://code.visualstudio.com)
-  * [WebStorm](https://www.jetbrains.com/webstorm/)
-  * [IntelliJ](https://www.jetbrains.com/idea/)
-  * [Emacs](https://www.gnu.org/software/emacs/)
-* Terminal
-  * [zsh](https://blog.nextzy.me/%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87terminal-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-300-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-oh-my-zsh-983143704641)
-  * [GitBash](https://git-scm.com/downloads)
-* Project Management
-  * [Jira](https://www.atlassian.com/software/jira)
-  * [Trello](https://trello.com/th)
-* Communication Platform
-  * [Slack](https://slack.com)
+* Sprint Planning คือการประชุมในทีมวางแผนก่อนเริ่มทำงานว่าใน Sprint นี้ (2 สัปดาห์ แต่ละคนจะทำงานอะไรบ้าง เสร็จเมื่อไหร่ ต้องการความช่วยเหลือจากใคร) Sprint Planning จะใช้เวลา 1-2 ชั่วโมงในการประชุม (1 ครั้ง / Sprint)
+* Sprint Review คือการประชุมสรุปในทีมตอนวันสุดท้ายของ Sprint เพื่อดูว่าแต่ละคนทำงานที่ได้รับมอบหมายเป็นอย่างไร เสร็จไหม ติดขัดอะไรมั้ย แล้วพูดคุยกันในทีมว่าทีมรู้สึกอย่างไร ดีใจ เสียใจ หรือมีปัญหาที่ควรจะปรับปรุงในการทำงานไหม ก่อนเริ่มทำงานใน Sprint ถัดไป จะใช้เวลา 1-2 ชั่วโมงในการประชุม (2 ครั้ง / Sprint)
+* Standup Meeting คือการประชุมสั้นๆ ภายในทีมเพื่อให้เห็นภาพการทำงาน ดูว่า Progress งานแต่ละคนเป็นยังไง ติดปัญหาต้องการความช่วยเหลือตรงไหนมั้ย ปกติ แต่ละคนจะพูดคนละ 1-2 นาที โดยการ Standup Meeting แต่ละครั้งไม่ควรเกิน 8-10 คน เพราะมากกว่านี้จะจับประเด็นกันไม่ได้ จะใช้เวลาประมาณ 10-15 นาที อาจจะ meeting ทุกวันหรือสองสามวันครั้งขึ้นอยู่กับความเหมาะสมของทีม
+* Ticket คือเนื้องานที่แจกจ่ายให้แต่ละคนไปทำใน Sprint นั้นๆ มีลักษณะคล้ายแจกงานใน Post-It ถ้างานไหนใครหยิบไปทำ หรือทำเสร็จแล้วก็จะขยับ Post-It ไปเรื่อยๆ เพื่อให้เห็นความเคลื่อนไหวในการทำงาน
 
-### Architecture Design
+## เขียน WebApp ที่ดีควรมีหลักการอย่างไรบ้าง
 
-* Monolithic
-* Micro Services
-* [12-Factor App](https://12factor.net)
+แนะนำให้น้องอ่าน [**The Twelve-Factor App**](https://12factor.net) ครับ จะอธิบายองค์ประกอบที่ควรมี 12 ข้อ ตอนนี้อ่านไปแล้วยังไม่เข้าใจไม่เป็นไรครับ เดี๋ยวเมื่อเราเริ่มเขียนโปรแกรมไปเรื่อยๆ จะเข้าใจเพิ่มขึ้น
+
+## ภาษามีเยอะไปหมดเลยแต่ละอันต่างกันอย่างไร
+
+พี่ทำเป็นตารางเทียบให้ครับ จะได้เห็นภาพมากขึ้น
+
+| เทคโนโลยี  | คำอธิบาย                                                                                                                                                   |   |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| JavaScript | ภาษาที่ใช้เขียนเว็บไซต์ เขียนได้ทั้ง Frontend / Backend ซึ่ง Web Developer ควรรู้ภาษานี้เป็นพื้น โดยหลักสูตรเราจะเรียนภาษานี้ครับ                          |   |
+| Python     | เหมาะกับคนที่ทำงานสาย Datascience                                                                                                                          |   |
+| Java       | อันนี้คนละภาษากับ JavaScript มักใช้ในองค์กรใหญ่ๆ Enterprise ใช้ทำ Backend                                                                                  |   |
+| Go         | เป็นภาษาคล้ายๆ ภาษา C ไว้ทำ Backend ที่เน้นความเร็วสูงๆ                                                                                                    |   |
+| C          | เป็นภาษาที่ไว้เขียนลงระดับ Hardware หรือสายการเงินที่ต้องการความเร็ว                                                                                       |   |
+| PHP        | ภาษาที่ใช้เขียน Frontend / Backend มักเจอบ่อยในการทำเว็บไซต์เช่น Wordpress แต่ระยะหลัง PHP ได้รับความนิยมน้อยลงเพราะ Web Developer หันไปใช้ JavaScript แทน |   |
+| NodeJS     | Runtime ที่เอาภาษา JavaScript ไปรันบน Server ถ้าพูดถึง NodeJS ให้นึกถึง JavaScript                                                                         |   |
+| TypeScript | ภาษาที่ต่อยอดจาก JavaScript โดยเพิ่ม Type เข้ามา มักใช้เขียน Backend ที่ต้องการระบุ Type ชัด                                                               |   |
+| SQL        | ภาษาที่ใช้เขียนเพื่อดึงข้อมูล แก้ไขข้อมูลจาก Database เช่น MySQL, Postgres                                                                                 |   |
