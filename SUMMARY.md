@@ -12,3 +12,5 @@
   * [Guideline](ep3-workshop-bmi-calculator/guideline.md)
 * [EP4. React](ep4-react.md)
 * [EP5. Web Dashboard](ep5-web-dashboard.md)
+* [EP6. NodeJS + API + TypeScript](ep6-nodejs-api-typescript.md)
+* [EP7. Workshop with Authentication](ep7.-workshop-with-authentication.md)
